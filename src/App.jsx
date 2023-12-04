@@ -34,7 +34,7 @@ function App() {
     <>
       <Heading as='h1' size='4xl' mb={6}>Bluebaere</Heading>
       <p>Willkommen!</p>
-      <Heading as='h2' >Blaubeerteesorten</Heading>
+      <Heading as='h2' mb={6}>Blaubeerteesorten</Heading>
       <Grid templateColumns='repeat(3, 1fr)' gap={5} >
         {
           shopItems.map(tea => { 
