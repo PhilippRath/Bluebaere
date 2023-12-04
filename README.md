@@ -1,4 +1,8 @@
 # Bluebaere Shop 
+Eine React BeispielApp mit Chakra UI.
+
+![Bluebaere App Screenshot](bluebaereApp-screenshoot.png)
+
 
 - [Chakra UI](https://chakra-ui.com/getting-started)
 
