@@ -4,7 +4,21 @@
 
 ## Installation
 
-Chakra UI Komponenten 
+### Grundgerüst ertellen
+```bash
+npm create vite@latest
+```
+- Project name: bluebaere-shop
+- Select a framework: react
+- Select a variant: react JavaScript
+
+```bash
+cd bluebaere-shop
+npm install
+npm run dev
+```
+
+### Chakra UI Komponenten intallieren
 ```bash
 npm install @chakra-ui/react @emotion/react @emotion/styled framer-motion
 ```
